@@ -1,4 +1,4 @@
-# Project tasks for [Summer 2020 Student Program](https://isrc.iscas.ac.cn/summer2020)
+# Navigation2 Project tasks for [Summer 2020 Student Program](https://isrc.iscas.ac.cn/summer2020)
 
 ### 1. Create a Configuration Assistant Analog to MoveIt
 
